@@ -4,14 +4,15 @@ import numpy as np
 from skimage.io import imread
 from skimage.transform import resize
 ```
-```url = 'https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/08/Jiji.jpg'
+```python
+url = 'https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/08/Jiji.jpg'
 im = imread(url)
 plt.imshow(im);
 im = resize(im,(512,512))
 plt.imshow(im);
 ```
 
-Certainly! Here's an explanation of the provided code in Markdown format:
+
 
 ---
 
