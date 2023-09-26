@@ -23,7 +23,6 @@ im = resize(im,(512,512))
 plt.imshow(im);
 
 
-Certainly! Here's an explanation of the provided code in Markdown format:
 
 ---
 
