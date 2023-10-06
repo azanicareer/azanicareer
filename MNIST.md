@@ -215,7 +215,7 @@ montage_plot(X[125:150,0,:,:])
 ### Visualization (Montage)
 
 - A sample montage of images from the training dataset is plotted.
-
+![montage plot of numbers](https://github.com/azanicareer/azanicareer/blob/main/mnist_numbers.png)
 ---
 
 ```python
