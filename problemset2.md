@@ -1,3 +1,5 @@
+[Link to the Colab notebook](https://colab.research.google.com/drive/15qANCpBBbsRkZ0JfHnKPs_EJMqwGtENH)
+
 ```
 import numpy as np
 import cv2
