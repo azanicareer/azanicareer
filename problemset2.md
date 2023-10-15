@@ -20,6 +20,8 @@ plt.imshow(gray_image, cmap='gray')
 plt.title('Grayscale Image')
 plt.axis('off')
 plt.show()
+![jiji in grey](https://github.com/azanicareer/azanicareer/blob/main/jiji.png)
+---
 
 # Convolve with 10 random filters
 num_filters = 10
@@ -99,7 +101,7 @@ plt.imshow(gray_image, cmap='gray')
 ```
 
 This part converts the resized image to grayscale and displays it.
-
+![jiji in grayscale](https://github.com/azanicareer/azanicareer/blob/main/jiji.png)
 ### Convolve with 10 Random Filters
 
 ```python
@@ -118,6 +120,8 @@ for i in range(num_filters):
 Here, the code applies 10 random filters of a specified size to the resized image and displays both the filters and their corresponding feature maps.
 
 The `random_filter` is a 2D array of random values, and `cv2.filter2D` applies this filter to the image. It then displays the filter and feature map using Matplotlib.
+
+![jiji in filters](https://github.com/azanicareer/azanicareer/blob/main/jiji_in_filters.png)
 
 ## Running the Code
 
